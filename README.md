@@ -1,1 +1,1 @@
-![Logo Proyek](./Group_1.JPEG)
+![Logo Proyek](./Group 1.jpeg)
